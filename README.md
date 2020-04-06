@@ -13,5 +13,5 @@ In the solution below, the letters connected to red lines should form a word fro
 
 Using backtracking search, we are able to find all solutions to a given problem.
 
-[example_1a]: https://github.com/rshaghoulian/WordPuzzleSolver/blob/master/images/example_1a.jpg
-[example_1b]: https://github.com/rshaghoulian/WordPuzzleSolver/blob/master/images/example_1b.png
+[example_1a]: https://github.com/Greg-Loren/word-puzzle-game/blob/master/images/example_1a.jpg
+[example_1b]: https://github.com/Greg-Loren/word-puzzle-game/blob/master/images/example_1b.png
