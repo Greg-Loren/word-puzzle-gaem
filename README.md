@@ -1,4 +1,4 @@
-## WordPuzzleSolver
+## Word-Puzzle-Game
 Solves word puzzles using backtracking search.<br/><br/>
 
 Pictured below is a sample word puzzle.
